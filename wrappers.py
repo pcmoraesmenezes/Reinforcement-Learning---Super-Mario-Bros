@@ -3,7 +3,7 @@ import os
 os.environ.setdefault('PATH', '')
 from collections import deque
 import sys
-sys.path.append('/home/pcmoraes/Desktop/codigos/super mario/venv/lib/python3.9/site-packages')
+sys.path.append('/home/pcmoraes/Desktop/codigos/super mario/venv/lib/python3.9/site-packages') # CHANGE ME
 import gym
 from gym import spaces
 import cv2
